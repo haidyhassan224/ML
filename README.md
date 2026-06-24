@@ -1,2 +1,2 @@
 # ML
-machine learning repository 
+Machine learning repository 
